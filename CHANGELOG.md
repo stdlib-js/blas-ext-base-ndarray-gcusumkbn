@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-12)
+## Unreleased (2026-04-19)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3c29f4b`](https://github.com/stdlib-js/stdlib/commit/3c29f4b4fd3bf3bf1f6a132c50bc684444d7674b) - **docs:** improve doctests for ndarray instances in `blas/ext/base/ndarray/gcusumkbn` [(#11574)](https://github.com/stdlib-js/stdlib/pull/11574) _(by Uday Kakade)_
 -   [`df6fbe8`](https://github.com/stdlib-js/stdlib/commit/df6fbe8072b04fc62d2cf41a1f54f68c73acc58f) - **bench:** refactor to use string interpolation in `blas/ext/base` [(#11379)](https://github.com/stdlib-js/stdlib/pull/11379) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Uday Kakade
 
 </section>
 
